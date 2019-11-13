@@ -1,2 +1,20 @@
 # SWENGS_Angular_Cheatsheet
-Important commands for Angular
+
+## Install
+
+### Install Angular
+````bash
+npm install -g @angular/cli
+````
+
+## Setup App
+Create a new Angular App
+````bash
+ng new <component-name>
+````
+
+## Start Server
+Start the server on http://localhost:4200/
+````bash
+ng serve
+````
