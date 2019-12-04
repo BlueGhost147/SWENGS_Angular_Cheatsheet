@@ -18,3 +18,8 @@ Start the server on http://localhost:4200/
 ````bash
 ng serve
 ````
+
+### Other modules
+````bash
+ng add @angular/material
+````
