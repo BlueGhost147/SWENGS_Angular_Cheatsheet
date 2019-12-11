@@ -22,4 +22,5 @@ ng serve
 ### Other modules
 ````bash
 ng add @angular/material
+npm install @auth0/angular-jwt --save
 ````
